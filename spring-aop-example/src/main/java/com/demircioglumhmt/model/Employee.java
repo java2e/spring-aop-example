@@ -1,7 +1,8 @@
-package com.demircioglumhmt;
+package com.demircioglumhmt.model;
 
 import org.springframework.stereotype.Component;
 
+import com.demircioglumhmt.BaseModel;
 import com.demircioglumhmt.utils.Logger;
 
 @Component
